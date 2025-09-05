@@ -28,6 +28,13 @@ Solo pega un enlace, elige el idioma y descarga el resultado en segundos.
 
 ## 🛠 Instalación local
 
+## 📷 Capturas de pantalla
+
+### Hero section
+![Hero Screenshot](assets/screenshot-hero.png)
+
+### Formulario de conversión
+![Form Screenshot](assets/screenshot-form.png)
 Requisitos:
 - Python 3.11+
 - `ffmpeg` instalado en tu sistema (`sudo apt install ffmpeg` en Linux)
