@@ -16,13 +16,6 @@ Solo pega un enlace, elige el idioma y descarga el resultado en segundos.
 - 🌍 Interfaz web simple con [Flask](https://flask.palletsprojects.com/)  
 - ☁️ Desplegado en [Hugging Face Spaces](https://huggingface.co/spaces) con **Docker**
 
----
-
-## 📷 Captura de pantalla
-
-*(ejemplo, puedes añadir aquí una imagen de tu app ejecutándose en Spaces)*  
-
-![Demo Screenshot](screenshot.png)
 
 ---
 
